@@ -44,3 +44,4 @@ erDiagram
         int id_mascota FK
         int id_veterinario FK
     }
+
