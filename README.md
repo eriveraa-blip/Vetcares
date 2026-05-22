@@ -1,10 +1,4 @@
-# 🐾 VetCare - Sistema de Gestión Veterinaria
-
-Este repositorio contiene el diseño de la base de datos para la clínica veterinaria VetCare, automatizando los procesos de propietarios, mascotas, veterinarios y citas médicas.
-
----
-
-## 📊 1. Diagrama Entidad-Relación (DER)
+## Diagrama Entidad-Relación (DER) - VetCare
 
 ```mermaid
 erDiagram
